@@ -5,4 +5,4 @@ steps to reproduce the issue with non-relative packages, index.html is intention
 3. pub get
 4a. pub run build_runner watch -o js
 4b. python3 -m http.server (new terminal window/tab)
-5. see 404 errors
+5. open `http://localhost:8000/js/web/some_static/index.html` and see 404 errors
