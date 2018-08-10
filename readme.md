@@ -1,4 +1,4 @@
-steps to reproduce the issue with non-relative packages
+steps to reproduce the issue with non-relative packages, index.html is intentionally *not* inside of web.
 
 1. clone repository
 2. cd into it
